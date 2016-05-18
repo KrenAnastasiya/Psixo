@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>2fons.ru-16024.png</file>
+        <file>background-beautiful-cool-drawings-Favim.com-2306864.jpg</file>
+        <file>bigpreview_Rainbow Background.png</file>
+        <file>cabinet3.png</file>
+        <file>Diegoicon.png</file>
+        <file>evilminionicon.png</file>
+        <file>gomer.png</file>
+        <file>gomer1.png</file>
+        <file>home.png</file>
+        <file>Main.png</file>
+        <file>Main1.png</file>
+        <file>maxresdefault.png</file>
+        <file>minus.png</file>
+        <file>monstersuniversityjamespsullivanicon2.png</file>
+        <file>plus.png</file>
+        <file>test.png</file>
+        <file>вы прагматик или мечтатель.png</file>
+        <file>каков уровень вашео воображения.png</file>
+        <file>лень.png</file>
+        <file>лидерство.png</file>
+        <file>любите ли вы себя.png</file>
+        <file>тест на внимательность.png</file>
+    </qresource>
+    <qresource prefix="/texts">
+        <file>com.txt</file>
+        <file>cur.txt</file>
+        <file>top.txt</file>
+        <file>users.txt</file>
+    </qresource>
+</RCC>

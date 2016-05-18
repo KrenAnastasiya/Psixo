@@ -1,0 +1,5 @@
+ppsixo (1.0.0-1) UNRELEASED; urgency=medium
+
+  * Fix for major syntax highlighting issue (See github issues)
+
+ -- Anastasia Kren <kren.nastyushencka@yandex.ru>  Fri, 11 May 2016 15:53:06 +0530

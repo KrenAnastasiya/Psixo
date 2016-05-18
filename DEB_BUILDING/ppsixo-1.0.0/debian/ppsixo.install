@@ -1,0 +1,3 @@
+bin/ppsixo usr/share/ppsixo
+ppsixo-launcher usr/bin
+ppsixo.desktop usr/share/applications

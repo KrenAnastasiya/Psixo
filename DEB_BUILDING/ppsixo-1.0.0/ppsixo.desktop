@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=PPsixo
+Exec=/usr/bin/ppsixo-launcher
+StartupNotify=false
+Categories=Development;GTK;GNOME;
+GenericName=PPsixo

@@ -1,0 +1,37 @@
+#!/bin/bash
+
+app_home="$HOME/ppsixo"
+
+# Preparing application files
+
+mkdir -p "$app_home"
+
+if [[ -z $(ls ~/ppsixo | grep first_run_lock) ]]; then
+
+	cat << EOF > "$app_home/com.txt"
+1
+2
+3
+EOF
+
+	cat << EOF > "$app_home/cur.txt"
+user0
+EOF
+
+	cat << EOF > "$app_home/top.txt"
+0
+EOF
+
+	cat << EOF > "$app_home/users.txt"
+user0
+user0
+null
+null
+EOF
+
+	touch "$app_home/first_run_lock"
+	chmod -R 775 "$app_home"
+fi
+
+# Running application
+/usr/share/ppsixo/ppsixo

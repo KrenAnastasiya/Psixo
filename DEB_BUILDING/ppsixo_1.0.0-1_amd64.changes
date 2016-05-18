@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 11 May 2016 15:53:06 +0530
+Source: ppsixo
+Binary: ppsixo
+Architecture: source amd64
+Version: 1.0.0-1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Anastasia Kren <kren.nastyushencka@yandex.ru>
+Changed-By: Anastasia Kren <kren.nastyushencka@yandex.ru>
+Description: 
+ ppsixo     - Psycho tests for humans
+Changes: 
+ ppsixo (1.0.0-1) UNRELEASED; urgency=medium
+ .
+   * Fix for major syntax highlighting issue (See github issues)
+Checksums-Sha1: 
+ 0db27260278a492e8bcb369c26ca26d76a54473c 866 ppsixo_1.0.0-1.dsc
+ 682d657a7a99dc953b665132e0a855cf35ca0612 26398289 ppsixo_1.0.0.orig.tar.gz
+ ee9d0caa64385086e52c67c09281df3644c3408b 854 ppsixo_1.0.0-1.debian.tar.gz
+ 0add00798c11d16e30167932aa22bc170fca2952 3674284 ppsixo_1.0.0-1_amd64.deb
+Checksums-Sha256: 
+ b902a93753fed88995b5488c58b70aa0c29931ace7609a0420b99dd49458bcdb 866 ppsixo_1.0.0-1.dsc
+ 4332d00781b08f87360bd2841e419df957d48ae7dad374f2a440c2dea3fc097c 26398289 ppsixo_1.0.0.orig.tar.gz
+ 3a9b1852b71513d9f71aad583cf8caf7097c1e27df3e0ca96e2a78f5cc7d61eb 854 ppsixo_1.0.0-1.debian.tar.gz
+ 704b0abf64bba73e928a15a3b27d34872e2dfb95d55376d02b127508d87b599c 3674284 ppsixo_1.0.0-1_amd64.deb
+Files: 
+ 9f163169d0ab0e96358885656adf91bd 866 unknown optional ppsixo_1.0.0-1.dsc
+ 338018cc91fc283d017910ff75c961e8 26398289 unknown optional ppsixo_1.0.0.orig.tar.gz
+ 91eb19c539695afc3935dce642ad0025 854 unknown optional ppsixo_1.0.0-1.debian.tar.gz
+ 07d5077294533ab18ee7a09ca7cc3784 3674284 unknown optional ppsixo_1.0.0-1_amd64.deb
